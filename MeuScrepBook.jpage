@@ -1,0 +1,13 @@
+2+2
+int a = 5;
+a = a * 10;
+a
+
+new java.util.Date();
+
+System.out.println("Exemplo de Scrapbook")
+
+Pessoa p = new Pessoa();
+p.setNome("Frederico Pederneiras");
+p.setMaxLivros(9);
+p.getMaxLivros
